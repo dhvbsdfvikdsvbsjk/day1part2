@@ -1,0 +1,10 @@
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\bin\Debug\ymriteXyesosi.exe.config
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\bin\Debug\ymriteXyesosi.exe
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\bin\Debug\ymriteXyesosi.pdb
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.csproj.AssemblyReference.cache
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.Form1.resources
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.Properties.Resources.resources
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.csproj.GenerateResource.cache
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.csproj.CoreCompileInputs.cache
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.exe
+C:\Users\vovv0\Desktop\kartochka_literaly\ymriteXyesosi\ymriteXyesosi\obj\Debug\ymriteXyesosi.pdb
